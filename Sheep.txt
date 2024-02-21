@@ -1,73 +1,56 @@
-    
-Privacy Policy:
-Last updated: February 17, 2024
-                
-1. DEFINITIONS
-2. DATA COLLECTION
-3. USE OF DATA
-4. CHILDREN’S INFORMATION
-5. OTHER PROVISIONS
-6. CONTACT US
+Privacy Policy
 
-1. DEFINITIONS
+Last updated: February 21, 2024
 
-"Oculus/Meta ID": A string that uniquely and consistently identifies a given specific Oculus/Meta account.
-"IP address" and "IP": Unique string of characters that your device uses to send Internet Protocols.
-"headset": The device you are running the game on.
-"I", "we", "us", "our" and "Troyy studios": The developer(s).
-"services", "game": Games/services developed and published by Troyy studios
+1. Definitions
 
-2. DATA COLLECTION
+Oculus/Meta ID: A string that uniquely and consistently identifies a given specific Oculus/Meta account.
+IP address: Unique string of characters that your device uses to send Internet Protocols.
+Headset: The device you are running the game on.
+I, we, us, our, and Troyy Studios: The developer(s).
+Services/Game: Games/services developed and published by Troyy Studios.
+2. Data Collection
 
 A. Oculus/Meta ID
-Your Oculus/Meta ID gets collected by PlayFab to log into your PlayFab account.
+Your Oculus/Meta ID is collected by PlayFab to log into your PlayFab account.
 
 B. IP Address
-Your IP address gets stored on your PlayFab account.
+Your IP address is stored on your PlayFab account.
 
 C. Analytics
-We may collect non-identifying analytics/data about your experience, to improve our services.
-This will not be linked with your PlayFab  account, at all. It's completely anonymous.
+We may collect non-identifying analytics/data about your experience to improve our services. This will not be linked to your PlayFab account and is completely anonymous.
 
 D. Moderation
-We may collect a small amount identifying data about your experience, for moderation purposes.
-This data will be linked with your PlayFab account and can be removed (See section 6).
+We may collect a small amount of identifying data about your experience for moderation purposes. This data will be linked to your PlayFab account and can be removed (See section 6).
 
-E. Removal of PlayFab account
-If you are unhappy with the data collected and you want your account and all data tied to you deleted, you may contact us as described in Section 6 below.
-3. USE OF DATA
+E. Removal of PlayFab Account
+If you are unhappy with the data collected and want your account and all data tied to you deleted, you may contact us as described in Section 6 below.
 
-We use your information for a variety of business purposes, including to provide our Services, and for administrative/moderation purposes, as described below.
+3. Use of Data
+
+We use your information for a variety of business purposes, including providing our Services and for administrative/moderation purposes, as described below:
 
 A: IP Address
-As stated in Section 2A, your IP address gets stored on your PlayFab account and is only be used for IP bans and other moderation purposes.
+As stated in Section 2A, your IP address is stored on your PlayFab account and is only used for IP bans and other moderation purposes.
 
-B: Third-party services
-We do not have any control over our third-party services, if you are interested in knowing more information please read the privacy policy for our third-party services listed bellow:
-PlayFab - https://playfab.com/terms/
-Photon - https://dashboard.photonengine.com/en/Account/PrivacyAndCookiePolicy
-This section will be updated as more services get added to our game(s).
+B: Third-Party Services
+We do not have control over our third-party services. For more information, please read the privacy policy for our third-party services listed below:
 
-4. CHILDREN’S INFORMATION
+PlayFab: PlayFab Privacy Policy
+Photon: Photon Privacy and Cookie Policy
+4. Children’s Information
 
 The Services are not directed to children under 13 (or other age as required by local law), and we do not knowingly collect personal information from children.
 
-If you are a parent or guardian and wish to review information collected from your child, or have that information modified or deleted, you may contact us as described in Section 6 below. If we become aware that a child has provided us
-with personal information in violation of applicable law, we will delete any personal information we have collected, unless we have a legal obligation to keep it, and terminate the child’s account and/or revert them to the underage
-experience, as applicable.
+If you are a parent or guardian and wish to review information collected from your child or have that information modified or deleted, you may contact us as described in Section 6 below.
 
-5. OTHER PROVISIONS
+5. Other Provisions
 
-Third-Party Websites/Applications. The Services may contain links to other websites/applications and other websites/applications may reference or link to our Services. These third-party services are not controlled by us. We encourage
-our users to read the privacy policies of each website and application with which they interact. We do not endorse, screen or approve, and are not responsible for, the privacy practices or content of such other websites or applications.
-Providing personal information to third-party websites or applications is at your own risk.
+Third-Party Websites/Applications: The Services may contain links to other websites/applications, which are not controlled by us. We encourage our users to read the privacy policies of each website and application they interact with.
+Supervisory Authority: If you are located in certain regions, you have the right to lodge a complaint with a supervisory authority if you believe our processing of your personal information violates applicable law.
+Changes to our Privacy Policy: We may revise this Privacy Policy from time to time. If there are any material changes, we will notify you as required by applicable law.
+6. Contact Us
 
-Supervisory Authority. If you are located in the European Economic Area, Switzerland, the United Kingdom or Brazil, you have the right to lodge a complaint with a supervisory authority if you believe our processing of your personal
-information violates applicable law.
-
-Changes to our Privacy Policy. We may revise this Privacy Policy from time to time in our sole discretion. If there are any material changes to this Privacy Policy, we will notify you as required by applicable law. You understand and
-agree that you will be deemed to have accepted the updated Privacy Policy if you continue to use our Services after the new Privacy Policy takes effect.
-
-6. CONTACT US
 If you have any questions about our privacy practices or this Privacy Policy, or to exercise your rights detailed in this Privacy Policy, please contact us at:
-Email: troyyemails@gmail.com      
+
+Email: troyyemails@gmail.com
